@@ -248,3 +248,6 @@ The footer appears at the bottom of the page and contains:
 - **Social Media Links**: Icons linked to Mustafa's social media accounts, including:
   - Instagram
   - Git
+  - -----
+  Link to Mockup and Wireframe to My Portofolio website
+  https://www.figma.com/design/7ff0eBmhEgnQFpnmx2lSNk/portfolio-website?node-id=0-1&t=QpkSUqZ62CZGTGIy-1
